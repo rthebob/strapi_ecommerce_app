@@ -58,3 +58,4 @@ Feel free to check out the [Strapi GitHub repository](https://github.com/strapi/
 # ecommerce_app
 # ecommerce_app
 # strapi_ecommerce_app
+# strapi_ecommerce_app
